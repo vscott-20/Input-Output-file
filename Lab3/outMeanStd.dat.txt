@@ -1,0 +1,2 @@
+The numbers in the input file are 1 2 3 4
+The mean of these four numbers is 2.5The stadard deviation of these four numbers is 1.11803
